@@ -28,3 +28,7 @@ How to Play (User Guide)
 2. Drop Shape: Release the mouse button to let it go.
 
 3. Next Level: When you win, press any key to go to the next level.
+
+## Example Output
+
+<img width="802" height="624" alt="image" src="https://github.com/user-attachments/assets/9b6445ba-57d3-4b0e-bbd1-aefcff630112" />
