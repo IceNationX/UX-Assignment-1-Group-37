@@ -11,7 +11,7 @@ How to Play (User Guide)
 
 4. A "Level Complete!" screen when you win.
 
-##How to Run
+## How to Run
 
 1. Open the project's root folder in the Processing IDE.
 
@@ -21,7 +21,7 @@ How to Play (User Guide)
 
 4. The game window will appear.
 
-##Controls
+## Controls
 
 1. Move Shape: Click and hold the mouse button on a shape to grab it.
 
